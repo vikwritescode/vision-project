@@ -13,6 +13,7 @@
                 "${workspaceFolder}/bin/${fileBasenameNoExtension}",
                 "-lopencv_core",
                 "-lopencv_imgcodecs",
+                "-lopencv_imgproc",
                 "-lopencv_highgui"
             ],
             "options": {
